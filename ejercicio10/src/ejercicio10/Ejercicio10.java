@@ -28,6 +28,7 @@ public class Ejercicio10 {
         } while (numero < 3);
 
         System.out.println("Cantidad de valores aleatorios: " + contador);
+        System.out.println("Modificacion gustavo");
     }
     
 }
